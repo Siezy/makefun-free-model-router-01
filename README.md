@@ -1,6 +1,10 @@
 # Free Model Aggregator
 
-Original Python standard-library server for free-model-aggregator-01.
+[![make.fun · free-model-aggregator-01](https://make.fun/badge/free-model-aggregator-01.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![rank](https://make.fun/badge/free-model-aggregator-01/Siezy/makefun-free-model-router-01/rank.svg)](https://make.fun/bounty/free-model-aggregator-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![reward](https://make.fun/badge/free-model-aggregator-01/Siezy/makefun-free-model-router-01/reward.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+
+Original Python standard-library server for [make.fun's free-model-aggregator-01 bounty](https://make.fun/bounty/free-model-aggregator-01).
 
 Run `python3 main.py` with MAKEFUN_ENV_URL and MAKEFUN_PROMPT_FILE supplied by
 the trial. `python3 main.py --list` probes the catalog and prints exactly the
